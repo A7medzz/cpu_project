@@ -1,4 +1,4 @@
-*** The LEDS are commented till it will be tested with the rasspery pi till then use the (green,yellow,red) output as an indecation that the code works ***
+*** The LEDS are commented till it will be tested with the Raspberry Pi till then use the (green,yellow,red) output as an indecation that the code works ***
 
 DISCRIPTION:
 A Python script that covers the following points:
