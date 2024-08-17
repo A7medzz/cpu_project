@@ -35,3 +35,4 @@ try:
 
 except KeyboardInterrupt:
     print("\nScript interrupted. Exiting...")
+    cpu_data_file.close()
